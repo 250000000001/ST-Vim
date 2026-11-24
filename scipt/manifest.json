@@ -1,0 +1,11 @@
+{
+    "display_name": "ST Vimium (Keyboard Hints)",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "local",
+    "version": "1.0.0",
+    "auto_update": false
+}
