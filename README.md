@@ -22,7 +22,7 @@ A simplified, SillyTavern-tailored version of [Vimium](https://github.com/philc/
 
 ## Install
 
-Copy this folder into your SillyTavern third-party extensions directory:
+Copy the script folder into your SillyTavern third-party extensions directory:
 
 ```bash
 # Standard single-user install:
